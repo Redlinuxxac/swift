@@ -1,1 +1,1 @@
-esto es un a prueba de uso y trabajo.
+Esto es un a prueba de uso y trabajo de git.
