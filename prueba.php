@@ -1,5 +1,5 @@
 <?php
 $data ="Edwin Rosario";
-    echo "Hola Mundo";
+    echo "Hola Mundo ".$data;
 
 ?>
