@@ -1,5 +1,6 @@
 <?php
-$data ="Edwin Rosario";
+    $data ="Edwin Rosario";
+    
     echo "Hola Mundo ".$data;
 
 ?>
