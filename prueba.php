@@ -2,6 +2,6 @@
    /* Esta e smi prueba de codigos */
     $data ="Edwin Rosario";
 
-    echo "Hola Mundo ".$data;
-
+    echo "Hola Mundo ".$data;       
+   //funcionalidad fi al
 ?>
